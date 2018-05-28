@@ -1,0 +1,10 @@
+D:\15CTT2\Năm 3\[HKII] Phan tich thiet ke phan mem\BaiTap\BTCN03 - User Control\1512371\DongHoDienTu_1512371\bin\Debug\DongHoDienTu_1512371.exe.config
+D:\15CTT2\Năm 3\[HKII] Phan tich thiet ke phan mem\BaiTap\BTCN03 - User Control\1512371\DongHoDienTu_1512371\bin\Debug\DongHoDienTu_1512371.exe
+D:\15CTT2\Năm 3\[HKII] Phan tich thiet ke phan mem\BaiTap\BTCN03 - User Control\1512371\DongHoDienTu_1512371\bin\Debug\DongHoDienTu_1512371.pdb
+D:\15CTT2\Năm 3\[HKII] Phan tich thiet ke phan mem\BaiTap\BTCN03 - User Control\1512371\DongHoDienTu_1512371\obj\Debug\DongHoDienTu_1512371.DongHoDienTuUserControl.resources
+D:\15CTT2\Năm 3\[HKII] Phan tich thiet ke phan mem\BaiTap\BTCN03 - User Control\1512371\DongHoDienTu_1512371\obj\Debug\DongHoDienTu_1512371.Form1.resources
+D:\15CTT2\Năm 3\[HKII] Phan tich thiet ke phan mem\BaiTap\BTCN03 - User Control\1512371\DongHoDienTu_1512371\obj\Debug\DongHoDienTu_1512371.Properties.Resources.resources
+D:\15CTT2\Năm 3\[HKII] Phan tich thiet ke phan mem\BaiTap\BTCN03 - User Control\1512371\DongHoDienTu_1512371\obj\Debug\DongHoDienTu_1512371.csproj.GenerateResource.cache
+D:\15CTT2\Năm 3\[HKII] Phan tich thiet ke phan mem\BaiTap\BTCN03 - User Control\1512371\DongHoDienTu_1512371\obj\Debug\DongHoDienTu_1512371.csproj.CoreCompileInputs.cache
+D:\15CTT2\Năm 3\[HKII] Phan tich thiet ke phan mem\BaiTap\BTCN03 - User Control\1512371\DongHoDienTu_1512371\obj\Debug\DongHoDienTu_1512371.exe
+D:\15CTT2\Năm 3\[HKII] Phan tich thiet ke phan mem\BaiTap\BTCN03 - User Control\1512371\DongHoDienTu_1512371\obj\Debug\DongHoDienTu_1512371.pdb
